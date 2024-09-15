@@ -7,6 +7,7 @@ button.addEventListener("click", function(){
         button.textContent = "Day";
         button.style.background='white'
         button.style.color='black'
+        button.style.outline='none'
 
     }else{
         body.style.background='white'
