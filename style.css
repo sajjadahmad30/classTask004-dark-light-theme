@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#btn{
+    padding: 10px 40px;
+    border-radius:10px ;
+    box-shadow: 0px 0px 2px 2px black;
+    background-color: black;
+    color: #fff;
+}
+.nightMode{
+background-color: black;
+color: #fff;
+}
+.dayMode{
+color: black;
+background-color: #fff;
+}
